@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp_Dropdown_Virtual_Scrolling", "BlazorApp_Dropdown_Virtual_Scrolling\BlazorApp_Dropdown_Virtual_Scrolling.csproj", "{2089B380-BBDF-4757-A957-52B2D37DAD55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2089B380-BBDF-4757-A957-52B2D37DAD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2089B380-BBDF-4757-A957-52B2D37DAD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2089B380-BBDF-4757-A957-52B2D37DAD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2089B380-BBDF-4757-A957-52B2D37DAD55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9CE13FB-2D5C-4433-A8D7-33C7CE355B33}
+	EndGlobalSection
+EndGlobal
