@@ -26,7 +26,6 @@ Selected value: @selectedValue
         myDdlData = Enumerable.Range(1, 200).Select(x => new DropdownModel { TextField = "item " + x, ValueField = x }).ToList();
     }
 
-    // The first open leaves the virtual range at 0, so the list stays on skeleton rows until a scroll changes the index.
     private void OnPopupOpening()
     {
         LocalDataQuery = new Query().Take(12).RequiresCount().Range(0, 12);
